@@ -4,7 +4,5 @@
 
 ## Hi there, this is Rodrigo here.
 
-I'm mainly a Java developer who is always trying new stacks and technologies in personal projects.
+I'm Software Engineer who is always trying new stacks and technologies in personal projects.
 
-### Current projects
-I'm studying low level development and trying to build an [OS](https://github.com/rodrigo-sntg/rdos).
